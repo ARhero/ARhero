@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Yooooo !! 👋
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: DM me on [Instagram](https://www.instagram.com/arhero.katkid/) or Join my [Discord](https://discord.gg/qrBHF5aXKt)
+- 😄 Pronouns: He/Him
 <!--
 **ARhero/ARhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
