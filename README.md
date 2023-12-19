@@ -1,5 +1,5 @@
 ### Yooooo !! 👋
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python, HTML, CSS, JS
 - 📫 How to reach me: DM me on [Instagram](https://www.instagram.com/arhero.katkid/) or Join my [Discord](https://discord.gg/qrBHF5aXKt)
 - 😄 Pronouns: He/Him
 <!--
