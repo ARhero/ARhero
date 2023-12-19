@@ -1,18 +1,40 @@
-### Yooooo !! 👋
-- 🌱 I’m currently learning Java, Python, HTML, CSS, JS
-- 📫 How to reach me: DM me on [Instagram](https://www.instagram.com/arhero.katkid/) or Join my [Discord](https://discord.gg/qrBHF5aXKt)
-- 😄 Pronouns: He/Him
-<!--
-**ARhero/ARhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm ARhero ! 👋
 
-Here are some ideas to get you started:
+I'm a passionate student based in India. Here you'll find some of my projects and a bit about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently learning Android Development.
+- 💬 Ask me about Java, Python, HTML, CSS, JS, ReactJS.
+- 😄 Pronouns: He/Him.
+
+## 🔧 Technologies & Tools
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARhero&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+<!--## 📈 My Projects
+
+- [Project 1](https://github.com/YourUsername/Project1): Brief description of the project.
+- [Project 2](https://github.com/YourUsername/Project2): Brief description of the project.
+- [Project 3](https://github.com/YourUsername/Project3): Brief description of the project. -->
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/-aryan-mishra-/)
+- Email: arhero.katkid@gmail.com
+
+## 🎉 Fun Facts
+
+- I love coding while sipping on a cup of coffee ☕.
+- I enjoy drawing, playing games, brainstorming ideas, etc...
+
+Thanks for visiting my profile! 😄
