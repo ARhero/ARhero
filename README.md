@@ -16,6 +16,9 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-333333?style=flat&logo=ai&logoColor=orange)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=python&logoColor=blue)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=deeplearningai&logoColor=red)
 
 ## 📊 GitHub Stats
 
