@@ -4,8 +4,8 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Android Development.
-- 💬 Ask me about Java, Python, HTML, CSS, JS, ReactJS.
+- 🌱 I’m currently learning AI / ML.
+- 💬 Ask me about AI, ML, Deep Learning, NLP, CV, IoT, Python, Java, HTML, CSS, JS, ReactJS.
 - 😄 Pronouns: He/Him.
 
 ## 🔧 Technologies & Tools
