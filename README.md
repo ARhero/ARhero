@@ -33,7 +33,7 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 ## 📫 How to Reach Me
 
 - LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/-aryan-mishra-/)
-- Email: arhero.katkid@gmail.com
+- Email: [work.mishra.aryan@gmail.com](mailto:work.mishra.aryan@gmail.com)
 
 ## 🎉 Fun Facts
 
