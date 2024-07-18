@@ -24,12 +24,6 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARhero&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
-<!--## 📈 My Projects
-
-- [Project 1](https://github.com/YourUsername/Project1): Brief description of the project.
-- [Project 2](https://github.com/YourUsername/Project2): Brief description of the project.
-- [Project 3](https://github.com/YourUsername/Project3): Brief description of the project. -->
-
 ## 📫 How to Reach Me
 
 - LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/-aryan-mishra-/)
@@ -37,7 +31,7 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 
 ## 🎉 Fun Facts
 
-- I love coding while sipping on a cup of coffee ☕.
+- I love coding while sipping water 💧.
 - I enjoy drawing, playing games, brainstorming ideas, etc...
 
 Thanks for visiting my profile! 😄
