@@ -24,6 +24,10 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARhero&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARhero&layout=compact&theme=radical)
+
 ## 📫 How to Reach Me
 
 - LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/-aryan-mishra-/)
