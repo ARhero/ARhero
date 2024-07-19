@@ -10,15 +10,14 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 
 ## 🔧 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=blue)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-333333?style=flat&logo=python&logoColor=orange)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=python&logoColor=blue)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=python&logoColor=red)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-3776AB?style=for-the-badge&logo=python&logoColor=violet&color=red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=grey&color=yellow)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=orange&color=blue)
 
 ## 📊 GitHub Stats
 
@@ -30,8 +29,10 @@ I'm a passionate student based in India. Here you'll find some of my projects an
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/-aryan-mishra-/)
-- Email: [work.mishra.aryan@gmail.com](mailto:work.mishra.aryan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.mishra.aryan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-aryan-mishra-/)
+
+
 
 ## 🎉 Fun Facts
 
